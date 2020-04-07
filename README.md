@@ -34,4 +34,4 @@ A big thanks to the maintainers of these sources.
 
 ## Terms of Use
 
-The repository and its contents herein, including all data ist published under the CC0 1.0 public domain license (no rights reserved). The data relies upon publicly available data from multiple sources, that do not always agree. The maintainer of this repository makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law. Also see the [LICENSE.md](LICENSE.md) file for more details.
+The repository and its contents herein, including all data ist published under the CC0 1.0 public domain license (no rights reserved). The data relies upon publicly available data from multiple sources, that do not always agree. The maintainer of this repository makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law. Also see the [LICENSE](LICENSE) file for more details.
