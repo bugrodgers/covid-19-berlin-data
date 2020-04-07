@@ -29,8 +29,7 @@ All datasets contain combinations of the following fields. Blank fields or unkno
 We compiled our data from the following sources:
 
 * Press releases of the Berlin administration: <https://www.berlin.de/sen/gpg/service/presse/2020/>
-
-Also a big thanks to the maintainers of these sources.
+A big thanks to the maintainers of these sources.
 
 ## Terms of Use
 
