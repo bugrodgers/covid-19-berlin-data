@@ -2,6 +2,8 @@
 
 This dataset describes the statistical development of COVID-19 in the city of Berlin/Germany and in its districts. The dataset was compiled from the data given in the [official press releases](https://www.berlin.de/sen/gpg/service/presse/2020/) of the Berlin administration and it can be used e.g. for educational and academic research purposes. Please always check with the official data sources before use, as the data may contain errors, e.g. typos or mapping errors. Please do not use this data for any kind of medical advise.
 
+![Known cases in Berlin](/plots/berlin_cases.png)
+
 ## Daily Reports (daily\_report)
 
 The folder contains daily case reports. All timestamps are in CET (GMT+1). Files are named by the convention: YYYY-MM-DD.csv. All data is stored in a [comma-seperated value](https://en.wikipedia.org/wiki/Comma-separated_values) file with the first line containing the field names. 
