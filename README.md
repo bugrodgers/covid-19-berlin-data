@@ -1,6 +1,6 @@
 # COVID-19 Dataset for Berlin / Germany
 
-This dataset describes the statistical development of COVID-19 in the city of Berlin/Germany and in its districts. The dataset was compiled from the data given in the [official press releases](https://www.berlin.de/sen/gpg/service/presse/2020/) of the Berlin administration and it can be used e.g. for educational and academic research purposes. Please always check with the official data sources before use, as the data may contain errors, e.g. typos or mapping errors. Please do not use this data for any kind of medical advise.
+This dataset describes the development of registered UCOVID-19 cases in the city of Berlin/Germany and in its districts. The dataset was compiled from the data given in the [official press releases](https://www.berlin.de/sen/gpg/service/presse/2020/) of the Berlin administration and it can be used e.g. for educational and academic research purposes. Please always check with the official data sources before use, as the data may contain errors, e.g. typos or mapping errors. Please do not use this data for any kind of medical advise.
 
 ## Known Cases
 
