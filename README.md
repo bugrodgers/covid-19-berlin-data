@@ -2,6 +2,8 @@
 
 This dataset describes the development of known COVID-19 cases in the city of Berlin/Germany and in its districts. The dataset was compiled from the data given in the [official press releases](https://www.berlin.de/sen/gpg/service/presse/2020/) of the Berlin administration (Senatsverwaltung für Gesundheit, Pflege und Gleichstellung) and may be used e.g. for educational or academic research purposes. Please always check with the official data sources before use, as the data may still contain typos or mapping errors. Please do not use this data for any kind of medical advise.
 
+The data set collects the data from March 1 to August 30, 2020. Since August 31, 2020, the data is now summarized as a [daily status report](https://www.berlin.de/corona/lagebericht/desktop/corona.html#start) by the State of Berlin.
+
 ## Known Cases
 
 ![Known cases in Berlin](/plots/berlin_cases.png)
@@ -35,6 +37,10 @@ We compiled our data from the following sources:
 * Press releases of the Berlin administration (Senatsverwaltung für Gesundheit, Pflege und Gleichstellung): <https://www.berlin.de/sen/gpg/service/presse/2020/>
 
 A big thanks to the maintainers of these sources.
+
+## Other Projects
+
+* the user plebln has also collected the COVID data of Berlin in his [corona-berlin-2020](https://github.com/plebln/corona-berlin-2020) project
 
 ## Terms of Use
 
